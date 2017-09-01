@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hieuhuynh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/hieuhuynh/Desktop/LoginPostAsyncTask-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_62e0fe345fe2dac1eb12401240de39495a5624c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuhuynh/Desktop/LoginPostAsyncTask-Android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/hieuhuynh/Desktop/LoginPostAsyncTask-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ee99a359c84a3fe459cf153fd7d2f9143a970e49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuhuynh/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.3.3/eb3399988a52099b0127e27fb5bed666eca86ace/baseLibrary-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb3399988a52099b0127e27fb5bed666eca86ace">
+        <dex dex="/Users/hieuhuynh/Desktop/LoginPostAsyncTask-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.3.3_0b44eb1201eda1b976b04c75a7fe2e8df51ad184/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuhuynh/Desktop/LoginPostAsyncTask-Android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e60915b9949daeefb29dff3fbb4f02c9c47e859">
+        <dex dex="/Users/hieuhuynh/Desktop/LoginPostAsyncTask-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7f8709074d72c3c9eee3e3dea13fc7d4ce8bdd18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuhuynh/.android/build-cache/bc69a04d3c70b89e8ec35b334836212eff8457c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/Users/hieuhuynh/Desktop/LoginPostAsyncTask-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a1ba270c3eac32bd7930a7236a7b5b4b9007720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hieuhuynh/.android/build-cache/605508a186b11bc0dde20b6c1afd1549178601f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/Users/hieuhuynh/Desktop/LoginPostAsyncTask-Android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_094207f1cc4968fc9aa560195b2c4ad2081355e3/classes.dex" />
+    </item>
+
+</items>
